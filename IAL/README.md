@@ -10,3 +10,5 @@ IAL - Algoritmy
  - C401: binární strom a operace nad ním implementované rekurzivně za 3 body
  - C402: binární strom a operace nad ním implementované nerekurzivně za 4 body
  - C016: tabulka s rozptýlenými položkami za 3 body
+   
+Podrobné zadání viz. readme ve složkách Ukol_2 a Ukol_2
