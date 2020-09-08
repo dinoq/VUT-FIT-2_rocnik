@@ -1,5 +1,6 @@
-# IPS
-IPS - Programovací seminář
+# IPS  
+IPS - Programovací seminář  
+Úkol byl vypracováván ve dvoučlenném týmu  
 Zadání úkolu 1:  
 
 Cílem úkolu je implementovat funkce pro alokaci paměti.  
