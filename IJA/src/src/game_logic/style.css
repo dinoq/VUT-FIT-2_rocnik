@@ -1,0 +1,57 @@
+.label {
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333333;
+    -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 );
+}
+.tab-pane:top *.tab-header-area {
+    -fx-background-insets: 0, 0 0 0 0;
+    -fx-padding: 5px 5px 0px 5px;
+    /*-fx-border: 0;*/
+}
+
+.tab {
+    -fx-background-insets: 0.0 5.0 0.0 0.0;
+    -fx-background-radius: 5.0 5.0 0 0;
+    -fx-padding: 5px 10px;
+    /*-fx-background-color: #17181B;*/
+}
+
+
+.tab-pane {
+    -fx-tab-min-height: 30px;
+    /* 24 */
+
+    -fx-tab-max-height: 30px;
+    /* 24 */
+}
+
+.pane{	
+    /*-fx-background-color: #17181B;*/
+}
+
+.button{
+	-fx-background-insets: 0.0 5.0 0.0 5.0;
+}
+/*SMAZAT DAL
+
+.tab:selected {
+    -fx-background-color: #21477A;
+}
+.tab:focused {
+    -fx-focus-color: transparent;
+}
+.tab {
+    -fx-padding: 0 30 0 30;
+}
+.tab-pane *.tab-header-background {
+    -fx-background-color: #17181B;
+}
+.tab-pane:top *.tab-header-area {
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-padding: 0.416667em 0.166667em 0.0em 0.0em;
+}
+.tab:selected .focus-indicator {
+    -fx-focus-color: transparent;
+    -fx-border-color: transparent;
+}*/
